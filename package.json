@@ -1,0 +1,28 @@
+{
+  "name": "automatizacion-web-con-puppeteer",
+  "version": "1.0.0",
+  "description": "Código de ejemplo de la charla de automatización web con Puppeteer en SevillaJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angelmmiguel/automatizacion-web-con-puppeteer.git"
+  },
+  "keywords": [
+    "taller",
+    "charla",
+    "puppeteer",
+    "automatizacion"
+  ],
+  "author": "Angel M Miguel <https://angelmm.rocks>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Angelmmiguel/automatizacion-web-con-puppeteer/issues"
+  },
+  "homepage": "https://github.com/Angelmmiguel/automatizacion-web-con-puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^1.17.0"
+  }
+}
